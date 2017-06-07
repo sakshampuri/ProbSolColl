@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ display()
+comment1.params=
+comment1.target=void\ input()
+comment2.params=nr1\ nr2
+comment2.target=int\ HCF_calc(int,\ int)
+comment3.params=nr1\ nr2
+comment3.target=int\ LCM_calc(int,\ int)
+numComments=4
